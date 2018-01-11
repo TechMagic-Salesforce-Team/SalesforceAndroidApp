@@ -1,0 +1,436 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:2:1-122:12
+INJECTED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:2:1-122:12
+INJECTED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:2:1-122:12
+MERGED from [:libs:SmartSync] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartSync/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ed02716554ddbc8904138b755b13c5b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5b3a723062c70a1771821d9997a33e79/AndroidManifest.xml:2:1-11:12
+MERGED from [:libs:SmartStore] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartStore/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-147:12
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/59b7495ff3450b1ace648a954901309b/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/7018d2229794db1ff1c2f5bb63578182/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06cadf6cf841b83b22cdb7eaf1bfa6be/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/6ea9b8bd0a17f83d91831d18b712c0a3/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/315d33ab5ce99c77854367435192ea53/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/0c67465b5ad4c484f69ad2bddb7fc125/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e5312f34a8c6a8bd53dbe2e3446f56a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ef0f45198003005979e2364a4d97c452/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/b682413d4320266e69656bbcfc35ebef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/beaaed1ee3772770b4cadf47e7bfc1bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/15c24f6544b657f954367836f729b77a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/d3f9881290fc69ae0e7d092dfbf4c12a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6d8cc03257e432e6cc743aab8f1ef630/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:25.2.0] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/customtabs-25.2.0.aar/036a6cebc9d10769c093a9aa0052b16c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/0ccfda04ec14dc8c2d9d5eb1dba1733b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e9daee605c3132b715e531f1d2f3aa1a/AndroidManifest.xml:17:1-22:12
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.7.aar/47f3070beb9e0f03719dd4bb6a7620a3/AndroidManifest.xml:2:1-4:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/99054e8664c273ae5dd13b8d854e6991/AndroidManifest.xml:17:1-24:12
+MERGED from [:libs:SalesforceAnalytics] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceAnalytics/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:2:1-122:12
+INJECTED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:2:1-122:12
+	package
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:3:5-33
+	android:versionName
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml
+		INJECTED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml
+		INJECTED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:4:5-43
+uses-sdk
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:8:5-10:41
+MERGED from [:libs:SmartSync] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartSync/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SmartSync] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartSync/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ed02716554ddbc8904138b755b13c5b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ed02716554ddbc8904138b755b13c5b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5b3a723062c70a1771821d9997a33e79/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5b3a723062c70a1771821d9997a33e79/AndroidManifest.xml:5:5-7:41
+MERGED from [:libs:SmartStore] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartStore/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SmartStore] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartStore/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/59b7495ff3450b1ace648a954901309b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/59b7495ff3450b1ace648a954901309b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/7018d2229794db1ff1c2f5bb63578182/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/7018d2229794db1ff1c2f5bb63578182/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06cadf6cf841b83b22cdb7eaf1bfa6be/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06cadf6cf841b83b22cdb7eaf1bfa6be/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/6ea9b8bd0a17f83d91831d18b712c0a3/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/6ea9b8bd0a17f83d91831d18b712c0a3/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/315d33ab5ce99c77854367435192ea53/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/315d33ab5ce99c77854367435192ea53/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/0c67465b5ad4c484f69ad2bddb7fc125/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/0c67465b5ad4c484f69ad2bddb7fc125/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e5312f34a8c6a8bd53dbe2e3446f56a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e5312f34a8c6a8bd53dbe2e3446f56a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ef0f45198003005979e2364a4d97c452/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ef0f45198003005979e2364a4d97c452/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/b682413d4320266e69656bbcfc35ebef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/b682413d4320266e69656bbcfc35ebef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/beaaed1ee3772770b4cadf47e7bfc1bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/beaaed1ee3772770b4cadf47e7bfc1bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/15c24f6544b657f954367836f729b77a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/15c24f6544b657f954367836f729b77a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/d3f9881290fc69ae0e7d092dfbf4c12a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/d3f9881290fc69ae0e7d092dfbf4c12a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6d8cc03257e432e6cc743aab8f1ef630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6d8cc03257e432e6cc743aab8f1ef630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.2.0] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/customtabs-25.2.0.aar/036a6cebc9d10769c093a9aa0052b16c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.2.0] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/customtabs-25.2.0.aar/036a6cebc9d10769c093a9aa0052b16c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/0ccfda04ec14dc8c2d9d5eb1dba1733b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/0ccfda04ec14dc8c2d9d5eb1dba1733b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e9daee605c3132b715e531f1d2f3aa1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e9daee605c3132b715e531f1d2f3aa1a/AndroidManifest.xml:20:5-44
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.7.aar/47f3070beb9e0f03719dd4bb6a7620a3/AndroidManifest.xml:3:3-40
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.7.aar/47f3070beb9e0f03719dd4bb6a7620a3/AndroidManifest.xml:3:3-40
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/99054e8664c273ae5dd13b8d854e6991/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/99054e8664c273ae5dd13b8d854e6991/AndroidManifest.xml:20:5-22:41
+MERGED from [:libs:SalesforceAnalytics] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceAnalytics/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SalesforceAnalytics] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceAnalytics/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:10:9-38
+	android:minSdkVersion
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:9:9-35
+permission#com.myapps.android.C2D_MESSAGE
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:17:5-19:47
+	android:protectionLevel
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:18:9-54
+uses-permission#com.myapps.android.C2D_MESSAGE
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:21:22-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:22:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:23:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:24:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/59b7495ff3450b1ace648a954901309b/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/59b7495ff3450b1ace648a954901309b/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/7018d2229794db1ff1c2f5bb63578182/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/7018d2229794db1ff1c2f5bb63578182/AndroidManifest.xml:21:5-66
+MERGED from [:libs:SalesforceAnalytics] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceAnalytics/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:libs:SalesforceAnalytics] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceAnalytics/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:26:5-78
+MERGED from [:libs:SalesforceAnalytics] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceAnalytics/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-79
+MERGED from [:libs:SalesforceAnalytics] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceAnalytics/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:26:22-76
+application
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:28:5-120:19
+MERGED from [:libs:SmartSync] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartSync/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-20
+MERGED from [:libs:SmartSync] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartSync/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5b3a723062c70a1771821d9997a33e79/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5b3a723062c70a1771821d9997a33e79/AndroidManifest.xml:9:5-20
+MERGED from [:libs:SmartStore] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartStore/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:libs:SmartStore] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartStore/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-145:19
+MERGED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-145:19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/59b7495ff3450b1ace648a954901309b/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/59b7495ff3450b1ace648a954901309b/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/7018d2229794db1ff1c2f5bb63578182/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/7018d2229794db1ff1c2f5bb63578182/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06cadf6cf841b83b22cdb7eaf1bfa6be/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06cadf6cf841b83b22cdb7eaf1bfa6be/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/6ea9b8bd0a17f83d91831d18b712c0a3/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/6ea9b8bd0a17f83d91831d18b712c0a3/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/315d33ab5ce99c77854367435192ea53/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/315d33ab5ce99c77854367435192ea53/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:customtabs:25.2.0] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/customtabs-25.2.0.aar/036a6cebc9d10769c093a9aa0052b16c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.2.0] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/customtabs-25.2.0.aar/036a6cebc9d10769c093a9aa0052b16c/AndroidManifest.xml:22:5-20
+MERGED from [:libs:SalesforceAnalytics] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceAnalytics/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-20
+MERGED from [:libs:SalesforceAnalytics] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceAnalytics/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-20
+	android:label
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:31:9-41
+	android:manageSpaceActivity
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:32:9-87
+	android:icon
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:30:9-42
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:29:9-40
+activity#com.myapps.android.MainActivity
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:35:9-44:20
+	android:label
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:37:13-45
+	android:theme
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:38:13-71
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:36:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:42:27-74
+activity#com.myapps.android.OperationsActivity
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:45:9-47:48
+	android:label
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:46:13-47
+activity#com.myapps.android.ContactsActivity
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:111:9-54
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:111:19-51
+activity#com.myapps.android.HomeActivity
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:112:9-115:59
+	android:label
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:114:13-56
+	android:theme
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:115:13-56
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:113:13-41
+activity#com.myapps.android.Tournament1Activity
+ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:116:9-119:68
+	android:label
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:118:13-63
+	android:theme
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:119:13-56
+	android:name
+		ADDED from /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/AndroidManifest.xml:117:13-48
+activity#com.salesforce.androidsdk.smartstore.ui.SmartStoreInspectorActivity
+ADDED from [:libs:SmartStore] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartStore/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-17:67
+	android:exported
+		ADDED from [:libs:SmartStore] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartStore/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [:libs:SmartStore] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartStore/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-64
+	android:name
+		ADDED from [:libs:SmartStore] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartStore/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-95
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:22-71
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-82
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/59b7495ff3450b1ace648a954901309b/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.2.aar/59b7495ff3450b1ace648a954901309b/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/7018d2229794db1ff1c2f5bb63578182/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.2.aar/7018d2229794db1ff1c2f5bb63578182/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:22-79
+uses-permission-sdk-23#android.permission.USE_FINGERPRINT
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:29-78
+meta-data#android.content.APP_RESTRICTIONS
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:9-26:56
+	android:resource
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:13-53
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-60
+service#com.salesforce.androidsdk.auth.AuthenticatorService
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:9-39:19
+	android:exported
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:13-79
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:13-34:29
+action#android.accounts.AccountAuthenticator
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:13-38:57
+	android:resource
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:17-54
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:17-69
+activity#com.salesforce.androidsdk.ui.LoginActivity
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:47:9-50:67
+	android:launchMode
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:49:13-48
+	android:theme
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:50:13-64
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:48:13-70
+activity#com.salesforce.androidsdk.ui.PasscodeActivity
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:53:9-56:67
+	android:exported
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:55:13-37
+	android:theme
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:56:13-64
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:54:13-73
+activity#com.salesforce.androidsdk.ui.ManageSpaceActivity
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:59:9-62:67
+	android:excludeFromRecents
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:61:13-46
+	android:theme
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:62:13-64
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:60:13-76
+activity#com.salesforce.androidsdk.ui.ServerPickerActivity
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:65:9-68:67
+	android:excludeFromRecents
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:67:13-46
+	android:theme
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:68:13-64
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:66:13-77
+activity#com.salesforce.androidsdk.ui.AccountSwitcherActivity
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:71:9-74:67
+	android:excludeFromRecents
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:73:13-46
+	android:theme
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:74:13-64
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:72:13-80
+activity#com.salesforce.androidsdk.auth.idp.IDPCodeGeneratorActivity
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:77:9-81:67
+	android:excludeFromRecents
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:79:13-46
+	android:exported
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:80:13-37
+	android:theme
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:81:13-64
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:78:13-87
+activity#com.salesforce.androidsdk.ui.DevInfoActivity
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:84:9-87:67
+	android:exported
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:86:13-37
+	android:theme
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:87:13-64
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:85:13-72
+receiver#com.salesforce.androidsdk.auth.idp.IDPInititatedLoginReceiver
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:90:9-98:20
+	android:exported
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:92:13-36
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:91:13-89
+intent-filter#android.intent.category.DEFAULT+com.salesforce.IDP_LOGIN_REQUEST
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:93:13-97:29
+action#com.salesforce.IDP_LOGIN_REQUEST
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:94:17-75
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:94:25-72
+category#android.intent.category.DEFAULT
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:96:17-76
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:96:27-73
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:105:9-114:20
+	android:exported
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:107:13-36
+	android:permission
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:108:13-73
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:106:13-66
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:109:13-113:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.myapps.android
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:109:13-113:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:110:17-81
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:110:25-78
+category#${applicationId}
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:112:17-61
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:112:27-58
+category#com.myapps.android
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:112:17-61
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:112:27-58
+service#com.salesforce.androidsdk.push.SFDCGcmListenerService
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:116:9-122:19
+	android:exported
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:118:13-37
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:117:13-81
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:119:13-121:29
+service#com.salesforce.androidsdk.push.SFDCInstanceIDListenerService
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:123:9-129:19
+	android:exported
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:125:13-37
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:124:13-88
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:126:13-128:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:127:17-80
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:127:25-77
+service#com.salesforce.androidsdk.push.SFDCRegistrationIntentService
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:130:9-133:19
+	android:exported
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:132:13-37
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:131:13-88
+receiver#com.salesforce.androidsdk.push.PushService$SFDCRegistrationRetryAlarmReceiver
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:135:9-137:40
+	android:exported
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:137:13-37
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:136:13-105
+service#com.salesforce.androidsdk.push.PushService
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:139:9-141:40
+	android:exported
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:141:13-37
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:140:13-70
+service#com.salesforce.androidsdk.analytics.AnalyticsPublisherService
+ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:142:9-144:40
+	android:exported
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:144:13-37
+	android:name
+		ADDED from [:libs:SalesforceSDK] /Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:143:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06cadf6cf841b83b22cdb7eaf1bfa6be/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06cadf6cf841b83b22cdb7eaf1bfa6be/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06cadf6cf841b83b22cdb7eaf1bfa6be/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06cadf6cf841b83b22cdb7eaf1bfa6be/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/315d33ab5ce99c77854367435192ea53/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/315d33ab5ce99c77854367435192ea53/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/315d33ab5ce99c77854367435192ea53/AndroidManifest.xml:20:20-65

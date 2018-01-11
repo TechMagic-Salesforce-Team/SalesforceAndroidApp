@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello from tab1"
+        android:textSize="20dp"
+        android:layout_marginLeft="120dp"
+        android:id="@+id/text_tab2"
+        android:textColor="@color/sf__warning_color"
+        />
+
+    <!--<EditText-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="asdasd"-->
+        <!--android:id="@+id/edit_text_1"-->
+        <!--/>-->
+
+
+
+    <!--<include-->
+        <!--layout="@layout/content_home"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/include" />-->
+
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_alignParentStart="true"-->
+        <!--android:layout_marginBottom="61dp"-->
+        <!--android:id="@+id/userInfo"/>-->
+
+
+</RelativeLayout>

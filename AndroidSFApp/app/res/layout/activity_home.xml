@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.myapps.android.HomeActivity"
+    android:layout_weight="2"
+    >
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include layout="@layout/header"/>
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <include
+        layout="@layout/content_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    />
+
+    <!--<android.support.design.widget.AppBarLayout-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:theme="@style/AppTheme.AppBarOverlay"-->
+        <!--android:layout_gravity="bottom|end"-->
+        <!--&gt;-->
+
+        <!--<android.support.design.widget.CollapsingToolbarLayout-->
+            <!--android:id="@+id/collapsing_toolbar_layout"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--app:layout_scrollFlags="scroll|exitUntilCollapsed">-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="fill_parent"-->
+            <!--android:orientation="vertical"-->
+            <!--&gt;-->
+        <!--<ScrollView-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="265dp"-->
+            <!--android:background="#f7f7f7"-->
+            <!--android:orientation="horizontal"-->
+            <!--&gt;-->
+        <!--<LinearLayout-->
+            <!--android:id="@+id/linearLayout1"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="fill_parent"-->
+            <!--android:layout_centerHorizontal="true"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:orientation="vertical"-->
+            <!--android:focusableInTouchMode="true"-->
+            <!--app:layout_scrollFlags="scroll"-->
+            <!--&gt;-->
+
+            <!--<Button-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="Load tournaments"-->
+                <!--android:onClick="onLoadTournamentsClick"-->
+                <!--android:background="@color/sf__chrome_nav_bar_azure"-->
+                <!--/>-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:padding="3dip"-->
+                <!--android:text="All current tournaments"-->
+                <!--android:textSize="10pt"-->
+                <!--android:textColor="@color/sf_grey"-->
+                <!--/>-->
+
+            <!--<TableLayout-->
+                <!--android:id="@+id/tournaments_table_layout"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:background="#FFF"-->
+                <!--android:stretchColumns="*">-->
+                <!--&gt;-->
+
+            <!--<TableRow-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content">-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:padding="3dip"-->
+                    <!--android:text="Name"-->
+                    <!--android:textSize="10pt"-->
+                    <!--android:textColor="@color/sf_grey"-->
+                    <!--/>-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:padding="3dip"-->
+                    <!--android:text="Type"-->
+                    <!--android:textSize="10pt"-->
+                    <!--android:textColor="@color/sf_grey"-->
+                    <!--/>-->
+
+
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:padding="3dip"-->
+                    <!--android:text="Format"-->
+                    <!--android:textSize="10pt"-->
+                    <!--android:textColor="@color/sf_grey"-->
+                    <!--/>-->
+
+
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:padding="3dip"-->
+                    <!--android:text="Date"-->
+                    <!--android:textSize="10pt"-->
+                    <!--android:textColor="@color/sf_grey"-->
+                    <!--/>-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:padding="3dip"-->
+                    <!--android:text="Status"-->
+                    <!--android:textSize="10pt"-->
+                    <!--android:textColor="@color/sf_grey"-->
+                    <!--/>-->
+
+        <!--</TableRow>-->
+
+        <!--</TableLayout>-->
+        <!--</LinearLayout>-->
+        <!--</ScrollView>-->
+        <!--</LinearLayout>-->
+        <!--</android.support.design.widget.CollapsingToolbarLayout>-->
+    <!--</android.support.design.widget.AppBarLayout>-->
+
+
+    <!--<android.support.design.widget.FloatingActionButton-->
+        <!--android:id="@+id/fab"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="bottom|end"-->
+        <!--android:layout_margin="@dimen/fab_margin"-->
+        <!--app:srcCompat="@android:drawable/ic_dialog_email" />-->
+
+</android.support.design.widget.CoordinatorLayout>
