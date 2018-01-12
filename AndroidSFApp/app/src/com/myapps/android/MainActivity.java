@@ -79,6 +79,13 @@ public class MainActivity extends SalesforceActivity {
         // Keeping reference to rest client
         this.client = client;
         if (StaticSources.restClient==null) StaticSources.restClient = client;
+        if (StaticSources.players.length()==0) {
+            try {
+                loadPlayers(QueryMethods.getAllPlayersWithAllFields());
+            } catch (UnsupportedEncodingException e) {
+                e.printStackTrace();
+            }
+        }
 		// Show everything
 		findViewById(R.id.root).setVisibility(View.VISIBLE);
 	}
@@ -189,4 +196,39 @@ public class MainActivity extends SalesforceActivity {
 			}
 		});
 	}
+
+
+	private void loadPlayers(String soql) throws UnsupportedEncodingException {
+		final RestRequest restRequest = RestRequest.getRequestForQuery(ApiVersionStrings.getVersionNumber(this), soql);
+		client.sendAsync(restRequest, new AsyncRequestCallback() {
+			@Override
+			public void onSuccess(final RestRequest request, final RestResponse result) {
+				result.consumeQuietly(); // consume before going back to main thread
+				runOnUiThread(new Runnable() {
+					@Override
+					public void run() {
+						try {
+							JSONArray records = result.asJSONObject().getJSONArray("records");
+							StaticSources.players = records;
+						} catch (Exception e) {
+							onError(e);
+						}
+					}
+				});
+			}
+
+			@Override
+			public void onError(final Exception exception) {
+				runOnUiThread(new Runnable() {
+					@Override
+					public void run() {
+						Toast.makeText(MainActivity.this,
+								MainActivity.this.getString(SalesforceSDKManager.getInstance().getSalesforceR().stringGenericError(), exception.toString()),
+								Toast.LENGTH_LONG).show();
+					}
+				});
+			}
+		});
+	}
+
 }

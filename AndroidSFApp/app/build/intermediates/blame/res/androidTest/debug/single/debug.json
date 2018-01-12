@@ -68,6 +68,10 @@
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable_design_bottom_navigation_item_background.xml.flat",
+        "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ed02716554ddbc8904138b755b13c5b6/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_holo_dark.xml.flat",
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/res/drawable/abc_list_selector_holo_dark.xml"
     },
@@ -354,6 +358,10 @@
     {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/layout_design_navigation_item.xml.flat",
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ed02716554ddbc8904138b755b13c5b6/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_edit_text_material.xml.flat",
+        "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/res/drawable/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/xml_app_restrictions.xml.flat",
@@ -896,6 +904,10 @@
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/res/anim/tooltip_enter.xml"
     },
     {
+        "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/anim_design_bottom_sheet_slide_in.xml.flat",
+        "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ed02716554ddbc8904138b755b13c5b6/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sf__action_back.png.flat",
         "source": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sf__action_back.png"
     },
@@ -990,6 +1002,14 @@
     {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ed02716554ddbc8904138b755b13c5b6/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable_design_password_eye.xml.flat",
+        "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ed02716554ddbc8904138b755b13c5b6/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/layout_notification_action.xml.flat",
+        "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e9daee605c3132b715e531f1d2f3aa1a/res/layout/notification_action.xml"
     },
     {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_design_ic_visibility_off.png.flat",
@@ -1168,6 +1188,10 @@
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06cadf6cf841b83b22cdb7eaf1bfa6be/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
+        "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
@@ -1324,6 +1348,10 @@
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e9daee605c3132b715e531f1d2f3aa1a/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06cadf6cf841b83b22cdb7eaf1bfa6be/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
@@ -1370,6 +1398,10 @@
     {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e9daee605c3132b715e531f1d2f3aa1a/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e9daee605c3132b715e531f1d2f3aa1a/res/layout/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1784,6 +1816,10 @@
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06cadf6cf841b83b22cdb7eaf1bfa6be/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
+        "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_colored_material.xml.flat",
+        "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -1952,6 +1988,10 @@
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ed02716554ddbc8904138b755b13c5b6/res/layout/design_layout_snackbar.xml"
     },
     {
+        "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ed02716554ddbc8904138b755b13c5b6/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/anim_abc_popup_enter.xml.flat",
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7b8d9da99858cbaee5dc51bdc588a63c/res/anim/abc_popup_enter.xml"
     },
@@ -1982,6 +2022,10 @@
     {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/ed02716554ddbc8904138b755b13c5b6/res/drawable-xxhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/rostyk_haidukevych/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e9daee605c3132b715e531f1d2f3aa1a/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",

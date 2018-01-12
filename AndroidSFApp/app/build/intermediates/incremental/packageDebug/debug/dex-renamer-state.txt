@@ -1,4 +1,4 @@
-#Wed Jan 10 18:58:32 EET 2018
+#Fri Jan 12 18:49:25 EET 2018
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/280
-base.4=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/277
-base.3=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/281
-base.2=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/278
-base.1=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/279
-base.0=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/282
+base.5=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/358
+base.4=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/353
+base.3=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/356
+base.2=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/354
+base.1=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/357
+base.0=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/355
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex

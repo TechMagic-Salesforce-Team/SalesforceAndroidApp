@@ -126,6 +126,11 @@
             android:name="com.myapps.android.Tournament1Activity"
             android:label="@string/title_activity_tournament1"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.myapps.android.TournamentInfoActivity"
+            android:label="@string/title_activity_tournament1"
+            android:theme="@style/AppTheme.NoActionBar" />
+
         <!-- SmartStore Inspector screen -->
         <activity
             android:name="com.salesforce.androidsdk.smartstore.ui.SmartStoreInspectorActivity"

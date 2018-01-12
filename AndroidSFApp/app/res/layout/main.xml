@@ -66,6 +66,10 @@
 		android:onClick="onLoadTournamentsMainClick"
 		android:text="Tournaments" />
 
+
+
+
+
 	<ListView android:id="@+id/contacts_list" android:layout_width="match_parent"
 	          android:layout_height="match_parent" />
 

@@ -1,4 +1,4 @@
-#Wed Jan 10 18:58:32 EET 2018
-base.0=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/272
+#Fri Jan 12 16:40:14 EET 2018
+base.0=/Users/rostyk_haidukevych/Documents/AndroidNativeSalesforce/AndroidSFApp/app/build/intermediates/transforms/dexMerger/debug/348
 path.0=classes.dex
 renamed.0=classes.dex
